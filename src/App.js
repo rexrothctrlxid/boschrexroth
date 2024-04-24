@@ -1,19 +1,20 @@
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import './App.css';
-import About from './components/about/About';
-import Carousel from './components/carousel/Carousel';
-import Contact from './components/contact/Contact';
-import Navbar from './components/navbar/Navbar';
-import Portfolio from './components/portfolio/Portfolio';
+import Home from './pages/Home';
+import NotFound from './components/NotFound';
+import Modbus from './pages/Modbus/Modbus';
 
-function App() {
-  return (
-    <div className="App">
-      <Navbar/>
-      <Carousel/>
-      <About/>
-      <Portfolio/>
-      <Contact/>
-    </div>
+
+const App = () => {
+  return (      
+    <Router>
+      <Routes>
+        <Route path='*' element={<NotFound />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/boschrexroth' element={<Home />} />
+        <Route path='/modbus' element={<Modbus />} />
+      </Routes>
+    </Router>
   );
 }
 
