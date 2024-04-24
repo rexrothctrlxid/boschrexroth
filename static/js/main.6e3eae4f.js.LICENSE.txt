@@ -47,10 +47,32 @@
  */
 
 /**
+ * @remix-run/router v1.16.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
  * Get time in ms
  * @license https://raw.github.com/jashkenas/underscore/master/LICENSE
  * @type {function}
  * @return {number}
+ */
+
+/**
+ * React Router v6.23.0
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
  */
 
 /**
