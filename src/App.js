@@ -13,6 +13,7 @@ const App = () => {
         <Route path='https://rexrothctrlxid.github.io/boschrexroth/' element={<Home />} />
         <Route path='/boschrexroth' element={<Home />} />
         <Route path='https://rexrothctrlxid.github.io/boschrexroth/modbus' element={<Modbus />} />
+        <Route path='/boschrexroth/modbus' element={<Modbus />} />
       </Routes>
     </Router>
   );
