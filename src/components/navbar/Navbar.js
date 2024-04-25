@@ -18,7 +18,7 @@ const Navbar = () => {
         <a className="sidenav-trigger show-on-large" href="#!" data-target="slide-out" ><i className="material-icons">menu</i></a>
         <div className="container">
           <div className="nav-wrapper">
-            <a href="/" className="brand-logo">
+            <a href="https://rexrothctrlxid.github.io/boschrexroth/" className="brand-logo">
               <img src="https://media0.giphy.com/media/MJUyVWLgSR4ols9JZc/giphy.gif?cid=6c09b9528ueqydjqnpx29a3z4dp1wkvh5yf335be0twuswif&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" style={{ height: '60px', width: 'auto' }} alt="logo" />
             </a>
             <ul className="right hide-on-med-and-down">
@@ -32,7 +32,7 @@ const Navbar = () => {
 
       <ul id="dropdown1" className="dropdown-content">
         <li><a href="/contact">Menghubungkan Modbus RTU ke ctrlX</a></li>
-        <li><a href="/modbus">Cara akses Modbus TCP ctrlX</a></li>
+        <li><a href="https://rexrothctrlxid.github.io/boschrexroth/modbus">Cara akses Modbus TCP ctrlX</a></li>
         <li><a href="/">Cara storing data kedalam Influxdb dengan ctrlX</a></li>
       </ul>
       

@@ -10,9 +10,9 @@ const App = () => {
     <Router>
       <Routes>
         <Route path='*' element={<NotFound />} />
-        <Route path='/' element={<Home />} />
+        <Route path='https://rexrothctrlxid.github.io/boschrexroth/' element={<Home />} />
         <Route path='/boschrexroth' element={<Home />} />
-        <Route path='/modbus' element={<Modbus />} />
+        <Route path='https://rexrothctrlxid.github.io/boschrexroth/modbus' element={<Modbus />} />
       </Routes>
     </Router>
   );
