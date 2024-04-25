@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/boschrexroth/static/css/main.c5ada07f.css",
-    "main.js": "/boschrexroth/static/js/main.f55f3bc3.js",
-    "static/media/4.png": "/boschrexroth/static/media/4.f99ee4964e0c75c7f6d7.png",
-    "static/media/1.png": "/boschrexroth/static/media/1.5d6b708fb982d6d6ea9b.png",
-    "static/media/7.png": "/boschrexroth/static/media/7.2efd02bd3cf0c77c0242.png",
-    "static/media/6.png": "/boschrexroth/static/media/6.8f0ea0bb75a5040003d6.png",
-    "static/media/5.png": "/boschrexroth/static/media/5.7337152018f1c7af680f.png",
-    "static/media/3.png": "/boschrexroth/static/media/3.ab4a68b22cc15f64bb09.png",
-    "static/media/2.png": "/boschrexroth/static/media/2.ad7562f6e62946339c66.png",
-    "static/media/8.png": "/boschrexroth/static/media/8.443643f2d04cb757d25c.png",
-    "static/media/ctrlxautomation.jpg": "/boschrexroth/static/media/ctrlxautomation.4f8bfa81d34917224942.jpg",
-    "static/media/modbus.png": "/boschrexroth/static/media/modbus.9953e50a67c584bec4fd.png",
-    "index.html": "/boschrexroth/index.html",
-    "main.c5ada07f.css.map": "/boschrexroth/static/css/main.c5ada07f.css.map",
-    "main.f55f3bc3.js.map": "/boschrexroth/static/js/main.f55f3bc3.js.map"
+    "main.css": "/boschrexroth/ctrlx/static/css/main.c5ada07f.css",
+    "main.js": "/boschrexroth/ctrlx/static/js/main.4d16b049.js",
+    "static/media/4.png": "/boschrexroth/ctrlx/static/media/4.f99ee4964e0c75c7f6d7.png",
+    "static/media/1.png": "/boschrexroth/ctrlx/static/media/1.5d6b708fb982d6d6ea9b.png",
+    "static/media/7.png": "/boschrexroth/ctrlx/static/media/7.2efd02bd3cf0c77c0242.png",
+    "static/media/6.png": "/boschrexroth/ctrlx/static/media/6.8f0ea0bb75a5040003d6.png",
+    "static/media/5.png": "/boschrexroth/ctrlx/static/media/5.7337152018f1c7af680f.png",
+    "static/media/3.png": "/boschrexroth/ctrlx/static/media/3.ab4a68b22cc15f64bb09.png",
+    "static/media/2.png": "/boschrexroth/ctrlx/static/media/2.ad7562f6e62946339c66.png",
+    "static/media/8.png": "/boschrexroth/ctrlx/static/media/8.443643f2d04cb757d25c.png",
+    "static/media/ctrlxautomation.jpg": "/boschrexroth/ctrlx/static/media/ctrlxautomation.4f8bfa81d34917224942.jpg",
+    "static/media/modbus.png": "/boschrexroth/ctrlx/static/media/modbus.9953e50a67c584bec4fd.png",
+    "index.html": "/boschrexroth/ctrlx/index.html",
+    "main.c5ada07f.css.map": "/boschrexroth/ctrlx/static/css/main.c5ada07f.css.map",
+    "main.4d16b049.js.map": "/boschrexroth/ctrlx/static/js/main.4d16b049.js.map"
   },
   "entrypoints": [
     "static/css/main.c5ada07f.css",
-    "static/js/main.f55f3bc3.js"
+    "static/js/main.4d16b049.js"
   ]
 }
