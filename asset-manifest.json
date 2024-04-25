@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boschrexroth/static/css/main.c5ada07f.css",
-    "main.js": "/boschrexroth/static/js/main.ff601ade.js",
+    "main.js": "/boschrexroth/static/js/main.f55f3bc3.js",
     "static/media/4.png": "/boschrexroth/static/media/4.f99ee4964e0c75c7f6d7.png",
     "static/media/1.png": "/boschrexroth/static/media/1.5d6b708fb982d6d6ea9b.png",
     "static/media/7.png": "/boschrexroth/static/media/7.2efd02bd3cf0c77c0242.png",
@@ -14,10 +14,10 @@
     "static/media/modbus.png": "/boschrexroth/static/media/modbus.9953e50a67c584bec4fd.png",
     "index.html": "/boschrexroth/index.html",
     "main.c5ada07f.css.map": "/boschrexroth/static/css/main.c5ada07f.css.map",
-    "main.ff601ade.js.map": "/boschrexroth/static/js/main.ff601ade.js.map"
+    "main.f55f3bc3.js.map": "/boschrexroth/static/js/main.f55f3bc3.js.map"
   },
   "entrypoints": [
     "static/css/main.c5ada07f.css",
-    "static/js/main.ff601ade.js"
+    "static/js/main.f55f3bc3.js"
   ]
 }
