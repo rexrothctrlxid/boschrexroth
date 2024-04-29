@@ -35,6 +35,7 @@ const Navbar = () => {
               </>
             :
             (
+              
               window.location.href === 'https://aardiiaansyaahhhtnjng.github.io/contohlangsunghapus/#/modbus' ? 
                   <>
                     <li className="nav-item">
